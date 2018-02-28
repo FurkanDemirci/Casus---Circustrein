@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Circustrein
 {
-	public partial class Form1 : Form
+	public partial class Trein : Form
 	{
-		public Form1()
+		public Trein()
 		{
 			InitializeComponent();
 		}
